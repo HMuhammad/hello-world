@@ -5,3 +5,7 @@ just another hello world repository. #1stgreensquare
 --Added PracticeFILE1, Lorem Ipsum
 --Added PracticeFILE2, PowerBI Learning Resources
 
+- HACKTOBERFEST 2020: 
+--Added PracticeFILE3, Lorem Ipsum
+--Added PracticeFILE4, R Learning Resources
+
