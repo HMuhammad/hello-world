@@ -7,5 +7,5 @@ just another hello world repository. #1stgreensquare
 
 - HACKTOBERFEST 2020: 
 --Added PracticeFILE3, Lorem Ipsum
---Added PracticeFILE4, R Learning Resources
+--Added PractigeFILE4, R Learning Resources
 
